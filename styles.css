@@ -1,14 +1,14 @@
 
 body {
     max-width: 95%;
-    height: 800px;
+    height: 1000px;
     background-color: rgb(225, 143, 143);
     padding: 2em;
     margin: auto;   
 }
 
 html {
-    margin-bottom: 500px;
+    margin-bottom: 700px;
 }
 header {
     font-size: 150%;
